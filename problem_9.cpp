@@ -32,9 +32,9 @@ public:
                 }
             }
         }
-        for(auto i:s)
+        for(auto j:s)
         {
-            ans.push_back(i);
+            ans.push_back(j);
         }
         return ans;
     }
